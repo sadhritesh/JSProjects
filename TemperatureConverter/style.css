@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    /* border: 2px solid black; */
+    margin-bottom: 0px;
+}
+.container{
+    width: 800px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+.s-cont{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+.inp{
+    width: 200px;
+    border: 2px solid black;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.l-cont{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom :30px; ;
+}
