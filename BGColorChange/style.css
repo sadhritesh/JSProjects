@@ -1,0 +1,40 @@
+body{
+    padding: 0px 100px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+img{
+    width: 75%;
+    padding-left: 200px;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+.color{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.con{
+    text-align: right;
+    margin-right: 100px;
+    cursor: pointer;
+}
+#white{
+    background-color: white;
+    border: 0.25px solid black;
+}
+#black{
+    background-color: black;
+}
+#violet{
+    background-color: violet;
+}
+#green{
+    background-color: aquamarine;
+}
